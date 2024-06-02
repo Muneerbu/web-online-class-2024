@@ -1,0 +1,11 @@
+*{
+    background-color: antiquewhite;
+}
+h1,h2{
+background-color: red;
+color: yellow;
+}
+p{
+    background-color: blueviolet;
+    color:yellowgreen;
+}
